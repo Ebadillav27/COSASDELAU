@@ -1,7 +1,7 @@
 package progra1;
 
 
-public class Progra1
+public class tiposdatos
 {
 
     
@@ -26,7 +26,7 @@ public class Progra1
         System.out.println("el primer numero es igual a: " + int1 + " y el segundo es igual a: " + int2);
         System.out.println(" Solo estoy imprimiendo por imprimir : " + hexa  + " va a ser lo mismo que decir " + octa);
     
-        Long long1 = 10F, long2 = 20L; 
+        float long1 = 10F, long2 = 20L; 
 
         System.out.println("long1 es igual a: " + long1 + " y long2 es igual a: " + long2);
 
