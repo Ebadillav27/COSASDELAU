@@ -23,7 +23,7 @@ public class tarea1
 	{
         int numero = 4;
 		 
-		System.out.println("el factorial de " + numero + "es: " + factorial(numero));
+		System.out.println("el factorial de " + numero + " es: " + factorial(numero));
 	}
 	
 }
