@@ -6,6 +6,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - tarea1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "progra1.tarea1",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - seisdeoctubre",
             "request": "launch",
             "cwd": "${workspaceFolder}",
